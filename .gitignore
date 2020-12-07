@@ -1,0 +1,3 @@
+.venv/
+day02/target/
+day02/Cargo.lock
