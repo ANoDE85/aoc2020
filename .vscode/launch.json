@@ -24,6 +24,14 @@
                 "<node_internals>/**"
             ],
             "type": "pwa-node"
+        },
+        {
+            "name": "Launch Day 04",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "C:/tools/lua-5.4.2/bin/lua.exe",
+            "cwd": "${workspaceFolder}/day04",
+            "args": ["${workspaceFolder}/day04/day04.lua"]
         }
     ]
 }

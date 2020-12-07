@@ -11,3 +11,4 @@ So far, Days 1 - 3 are finished in the following languages:
  * Day 01: Python 3
  * Day 02: Rust
  * Day 03: Javascript
+ * Day 04: LUA
