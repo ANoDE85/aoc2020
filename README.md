@@ -15,3 +15,4 @@ The following days are finished:
  * Day 04: LUA
  * Day 05: Fortran (modern)
  * Day 06: Free Pascal
+ * Day 07: PHP
